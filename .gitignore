@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+.env
+.env.example
+.vscode/
+/build/
+/dist/
+/.pnp.*
+/coverage/
+/*.log
+/yarn-error.log
+package-lock.json
